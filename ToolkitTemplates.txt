@@ -1,0 +1,14 @@
+Title:              Neuro Toolkit Templates
+Author:             
+Web:                http://neuropsychnow.com
+Date:                   07/06/2013 
+Tags:                   Productivity, Report, Template, Writing
+Base Header Level:      1
+
+We recently ran across [this](http://neuropsychologytoolkit.com/report-writing) article about neuropsychologists' report writing characteristics.[^1] Included are some facts that we're all more or less aware of. Most poignant for us was the amount of time we spend writing our reports versus the likelihood that our audience will actually *read* any of them beyond the summary section. This disparity is, in large part, why we work to reduce the amount of time spent writing reports. 
+
+Included are templates for download.
+
+
+
+[^1]: For an in-depth analysis, see "Donders, J. (2001). A survey of report writing by neuropsychologists, I: General characteristics and content. *The Clinical Neuropsychologist, 15*(2), 137-149," and "Donders, J. (2001). A survey of report writing by neuropsychologists, II: Test data, report format, and document length. *The Clinical Neuropsychologist, 15*(2), 150-161."

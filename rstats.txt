@@ -1,0 +1,12 @@
+Title:					Statistics Program: R You Ready?
+Author:					W. Howard Buddin Jr., Ph.D.
+Web:					http://neuropsychnow.com
+Date:                     01/05/2013
+Tags:                   	Statistics, Research, Applications
+Base Header Level:      	1
+
+Most Neuropsychologists have either heard of, or are familiar with, [SPSS](ref), [SAS](ref), and/or [Stata](ref).[^1] These programs afford incredible data analysis power, and allow researchers to perform Sisyphen analyses over redoubtable datasets.  
+The most powerful stats program in the world, though, is not among those just listed. It uses plugins (called "packages") that have been created by an extraordinarily active developer community that is largely made up of scientists. Literally thousands of packages have been created by people the world over, and are free to download. The bottom line is this: if you can think of a statistical test or procedure that involves more than one step, or involves several disparate tests, odds are *very* good that what you're thinking of has already been "packaged" by someone else, and made available for download. The stats program is called, quite simply, "R," and it can be downloaded [here](http://cran.r-project.org/). R is available for Mac, Windows, and Linux Operating Systems.  
+It is also entirely free. 
+
+[^1]: These pretty much dominate the market. Sadly, SPSS has become bloated and comes with abysmally poor customer support.  

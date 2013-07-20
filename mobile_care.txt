@@ -1,0 +1,30 @@
+Title:				How Do You Use Mobile Tech in Healthcare?
+Date:				07/19/2013 
+Tags:				Apps, Healthcare, Mobile, Patient, Practice, Tech 
+
+The presence of computers and, more recently mobile devices, has changed the landscape of healthcare forever. This is a good thing, but it's not (yet) a *great* thing. What do we mean by this? Well, let's throw a little thesis out there to guide this thought experiment. It's broken into Part I (this article) and II (TBA).
+
+Part I
+
+1. Federally mandated move to Electronic Medical Records (EMR) systems
+2. Hamstrung: EMR
+3. Emergence of mobile tech
+4. Complications and shortcomings of HIPAA
+	1. Address protected health information security risks
+	2. HITECH
+	3. 2013: Updates & Changes 
+
+Part II
+
+5. Hamstrung: institutions balk
+6. Hamstrung: clinicians ignore and/or are unsure of what/how to use
+
+Part I
+
+The Federal Government mandated back in 2003 that medical institutions must all move to Electronic Medical Records (EMR) but quick. This led to a surge of some of the worst software ever written by software companies that were trying to fill a new need while simultaneously taking advantage of a new stream of revenue.[^1] 
+
+
+
+
+
+[^1]: We don't take issue with such enterprise; they have to pay the bills, too. It's really all about discordance between EMR packages.

@@ -1,0 +1,23 @@
+Title:	IQ and Expected Cognitive Performance     
+Author:	S. Marc Testa, Ph.D.
+Web:	http://neuropsychnow.com
+Date:	12/16/2012	
+Copyright:                  	2012 Neuropsych Now 
+                                This work is licensed under a Creative Commons License.  
+                                http://creativecommons.org/licenses/by-nc-sa/3.0/
+XMP:                            CCAttributionShareAlike
+Tags:                   	IQ, psychometrics, prediction, interpretation
+Encryption Version:            	1
+Base Header Level:          	1
+EeeXHTML XSLT:                 	xhtml-static-site.xslt
+
+It would be nice if neuropsychologists had a magic window into the past because we are often asked to determine how much, if any, cognitive decline has occurred as a result of a brain injury or condition. Luckily, there are methods that allow us to estimate a patient's previous level of functioning. 
+
+Traditionally, neuropsychologists (as well as psychologists) would compare  the test performance of an individual examinee to scores obtained by healthy age-matched peers. Age comparisons can predict cognitive test performance to some degree,  but additional variables, like education, can improve precision. 
+
+Education, however, may provide misleading estimates. For instance, a 30 year-old with a Ph.D. **may** be expected to have higher test scores than a 30 year-old with a high school education. What if the more educated 30 year old is **less** intelligent than their high school educated peer? Using education to predict test performance of the less intelligent Ph.D. might lead to an overestimate of their previous functioning. In turn, this could result in a false positive conclusion that the patient sustained a cognitive decline when they haven't. Alternatively, the more intelligent/less educated 30 year old might perform beyond expectations and this may lead to an errant conclusion that they have not declined when they really did.[^1]
+
+One alternative to using education-based norms is to use norms that account for IQ. Some tests are highly correlated with IQ, but are not impacted by brain damage or disease. This allows us to estimate what a person's IQ nay have been prior to an injury or disease. Now, suppose an examinee's IQ is estimated as high average and you want to determine if their score on a memory test is lower than expected. How do you make that determination? What if a person's IQ is borderline and their memory performance is also very low, how can you determine if that low score represents a change from baseline?
+
+[1]: It goes without saying that the clinical history provides an added context that neuropsychologists consider when interpreting test data. 
+
