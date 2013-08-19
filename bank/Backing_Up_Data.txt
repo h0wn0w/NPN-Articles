@@ -1,9 +1,8 @@
-Title:					Data Backups, Part I
-Author:					W. Howard Buddin, Jr., Ph.D.
-Web:					http://neuropsychnow.com
-Date:               	12/09/2012
-Tags:					Data, Tech, Backup 
-Base Header Level:  	1
+Title:			Data Backups, Part I
+Author:			W. Howard Buddin, Jr., Ph.D.
+Date:               			08/7/2013
+Tags:			Backup, Data, Tech 
+Base Header Level:  			1
 
 There are two types of computer users: those who *have* lost data, and those who *will* lose data. As such, this point cannot be overemphasized: **back up your data**. More generally and preferable, back up everything on your computer. Beginning a couple of years ago, the prices on Hard Disk Drives (HDD) began to drop. And then they plummetted. There is no shortage of sites where a 1 TB HDD can be found for $100 or less, like [right here](http://www.newegg.com/Product/Product.aspx?Item=N82E16822178245). What is important here is this: there is little excuse to not have a backup of your computer, and there is *no* excuse to not have a backup of your most important files. As a practicing clinician, these files should largely be your reports. 
 
