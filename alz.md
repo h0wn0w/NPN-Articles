@@ -1,0 +1,49 @@
+An estimated 5.4 million Americans have Dementia of the Alzheimer's Type (AD). This includes approximately 200,000 individuals with early onset AD (under the age of 65; Alzheimer's Association, 2012). Alzheimer's is a neuropathological *disease* that is well in motion by the time memory or other cognitive problems surface and a patient is referred to a memory clinic. Some evidence suggests Alzheimer's pathology begins in different areas of the brain stem, but *symptoms* (like memory dysfunction) appear later in the course of the disease when cortical regions become dysfunctional. One main goal of current research is to detect the presence of the disease, prior to symptom onset, so appropriate interventions can be developed.
+
+To accomplish research goals that seek to identify pre-symptomatic phases of Alzheimer's, the clinical criteria for AD are being honed. McKhann, et al. (2011) propose a sweeping restructuring of the original criteria (codified in 1984) that incorporates more modern and well-accepted research that shifted our understanding of AD as a disease and syndrome. {++They have proposed three classification criteria for AD dementia, the last of which is intended for research purposes:++}{>>@whb - 2013.08.30<<}
+
+1. Probable AD dementia,
+2. Possible AD dementia, and
+3. Probable or possible AD dementia with evidence of the AD pathophysiological process. 
+
+{--The first two are intended for use in all clinical settings. The third is currently intended for research purposes.--}{>>@whb - 2013.08.30<<}
+
+{++Also included are criteria for "Pathophysiologically proved AD dementia," which would be appropriate if
+> ...the patient meets the clinical and cognitive criteria for AD dementia...and the neuropathological examination...demonstrates the presence of the AD pathology.++}{>>@whb - 2013.08.30<<}
+
+## Memory Impairment as a Defining Characteristic?
+
+Although memory impairment is and has been the primary defining feature of AD, it is unlikely that it will continue to be a necessary (it has never been sufficient) condition when diagnosing AD (Mckhann, 2011). {--Indeed, --}{>>@whb - 2013.08.30<<}{++Among proposed subtypes ++}{>>@whb - 2013.08.30<<}{--on the table --}{>>@whb - 2013.08.30<<}is a *non-amnestic* type, which may end up including what we now refer to as Posterior Cortical Atrophy, or {==PCA==}{>>PCA is not so much singled out as it is just used as an example of non-amnestic AD. It was also something that, at the time, was fresh in my mind as I had just given a presentation on it based on a patient I saw. I am not partial to it versus any of the others if you'd rather write up a different one @whb - 2013.08.30<<} {>>why is PCA singled out?  There are a number of syndromes that are equally likely, no? <<}. The notion of PCA as a clinical syndrome that is associated with Alzheimer's pathology has received increased support from research (e.g., Alves, Soares, Sampaio, & Gonçalves (2013)). Other non-amnestic clinical syndromes that are related to Alzheimer's disease include primary impairments in language (e.g., logopenic aphasia, which has been associated with beta? amyloid pathology), or executive functioning. 
+
+## Genetic Biomarkers and Neurocognitive Change ##
+
+Advances since the 1984 Alzheimer's criteria include the discovery of potential AD biomarkers. Specifically, genetic mutations in APP, PSEN1, and PSEN2 and biomarkers including amyloid-beta protein and tau/p-tau are measured, when possible, to assist with diagnosis. The presence of these biomarkers has demonstrated good reliability and validity in establishing a positive diagnosis of AD.
+
+Neuropsychological testing has also advanced in its ability to detect early clinical signs of Alzheimer's. As noted by Bondi, Jak, Delano-Wood, Jacobson, Delis, and Salmon (2008) in their review of literature covering neuropsychological testing for AD:
+
+>"The neuropsychological studies indicated that prodromal AD is characterized by subtle deficits in a broad range of neuropsychological domains, particularly in learning and memory, executive functioning, processing speed, attention, and semantic knowledge." 
+
+In particular, and poignantly: 
+
+>"Thus, there exist several potential markers of a prodromal period of AD, in which specific cognitive and biomarker changes precede the clinical manifestations."
+
+## In the Trenches #
+
+
+The neuropathological criteria used to diagnose various neurodegenerative disorders are evolving. The *clinical* criteria are also evolving and we are realizing that a number of different cognitive syndromes can be associated with the same disease. Posterior cortical atrophy, logopenic aphasia, or a primary amnestic syndrome can all be linked to "Alzheimer's Disease". Of course, we want to be able to provide a diagnosis to the patient and their family. Providing a diagnosis and describing a syndrome serve entirely different functions. Eventually, genetic markers and morphological and metabolic brain imaging will be able to identify the *disease* and, hopefully lead to effective interventions well before symptoms emerge. In 2013, however, it is the neuropsychological test data that provides the bulk of data about the patient's current level of cognitive functioning, their strengths and weaknesses, the types of difficulties they are most likely to experience, and how their overall quality of life can be maintained as long as possible in the face of a dementing illness. As medical technology advances, it is important to remember that our job is not only to diagnose, but to describe. {--It should come as no surprise that the current conceptualization of Alzheimer's *will not* be the Alzheimer's we know in 10, or even fewer, years. Alzheimer's Disease, from any perspective, is far removed from being well understood. This is especially true when considering that individuals over age 80 comprise the fastest-growing age demographic in the United States (Bondi et al., 2008) and are much more likely to receive a diagnosis of Dementia of the Alzheimer's Type compared to any (relatively) younger group. This cohort is especially fallow ground for research, and will play a large part in our re-learning of this complex and catastrophic pathology.--}{>>@whb - 2013.08.30<<} 
+
+
+
+
+
+## References
+
+Alves, Jorge, Soares, José Miguel, Sampaio, Adriana, Gonçalves, Óscar F (2013). Posterior cortical atrophy and Alzheimer’s disease: a meta-analytic review of neuropsychological and brain morphometry studies. *Brain Imaging and Behavior*, 1-9. doi: 10.1007/s11682-013-9236-1
+
+Association, Alzheimer's (2012). 2012 Alzheimer's disease facts and figures. *Alzheimer's & Dementia, 8*(2), 131-168. doi:10.1016/j.jalz.2012.02.001. http://dx.doi.org/10.1016/j.jalz.2012.02.001
+
+Bondi, Mark W., Jak, Amy J., Delano-Wood, Lisa, Jacobson, Mark W., Delis, Dean C., & Salmon, David P. (2008). Neuropsychological contributions to the early identification of Alzheimer’s Disease. *Neuropsychology Review, 18*(1), 73-90. doi: 10.1007/s11065-008-9054-1
+
+Mckhann, Guy M, Knopman, David S, Chertkow, Howard, Hyman, Bradley T, Jack, Clifford R, Kawas, Claudia H, et al. (2011). The diagnosis of dementia due to Alzheimer’s disease: Recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer's disease. *Alzheimer's & Dementia, 7*(3), 263-269. doi:10.1016/j.jalz.2011.03.005
+
+Savla, Gauri Nayak, Palmer, Barton W. (2005). Neuropsychology in Alzheimer's disease and other dementia research. *Current Opinion in Psychiatry, 18*, 621-627.
