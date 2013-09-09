@@ -1,0 +1,28 @@
+Title:	HIPAA in the Cloud - A Very Short Intro (Part 0)
+Author:	W. Howard Buddin, Jr., Ph.D. & S. Marc Testa, Ph.D.
+Date:	09/09/2013 
+Tags:	Clinical, Data, EMR, HIPAA, HITECH, PHI, Practice
+
+All psychologists have some understanding of HIPAA{--'s--}{>>@whb - 2013.09.09<<}{++ (The Health Insurance Portability and Accountability Act of 1996) ++}{>>@whb - 2013.09.09<<} Privacy and Security rules. Indeed, all students since the late nineties should have received at least *some* exposure to HIPAA {--(The Health Insurance Portability and Accountability Act of 1996) --}{>>@whb - 2013.09.09<<}as part of their graduate education. Current technology, however, has broadened the scope of how Protected Health Information (PHI) is transmitted and stored. Electronic Medical Records (EMR) have, therefore, made HIPAA adherence a very different animal, and a topic that falls under the rubric of "*things they didn't teach you in graduate school*." For a not-so-quick overview of pretty much everything related to HIPAA and HITECH, start at the index for Health IT [Final Rules & Regulations](http://www.healthit.gov/policy-researchers-implementers/final-rules-regulations). 
+
+
+The following caveat was issued in the APA's most recent issuance of record keeping guidelines (APA, 2007):[^1]  
+
+>"Advances in technology, especially in electronic record keeping, may create new challenges for psychologists in their efforts to maintain the security of their records (see Guideline 9)."
+
+New challenges, indeed. Since the beginning of 2011 through {--the writing of this post in --}{>>@whb - 2013.09.08<<}mid-December 2012, nearly 8.2 *million* medical records {~~have been~>were~~}{>>@whb - 2013.09.08<<} compromised in some way. Among the many threats to PHI are malicious hackers, {==physician loss==}{>>these are the categories provided by the Privacy Rights Clearinghouse @whb - 2013.09.08<<}, and unintended disclosure, to name a few. If these numbers seem absurd, check out the [Privacy Rights Clearinghouse](https://www.privacyrights.org/). After a report gets generated, scroll down. It's a very, very long page. Each event in which records were compromised is logged, with a description of exactly what was compromised and how it happened. 
+
+{++The HIPAA HITECH Final Rule of 2013 went into effect on March 26, 2013; compliance is mandatory by September 23, 2013 - just a few short weeks away.++}{>>@whb - 2013.09.08<<} {++With the new rules and regulations, ++}{>>@whb - 2013.09.08<<}{++e++}{>>@whb - 2013.09.08<<}{--E--}{>>@whb - 2013.09.08<<}ach {++of the aforementioned++}{>>@whb - 2013.09.08<<}{++ ++}{>>@whb - 2013.09.09<<}instance{++s++}{>>@whb - 2013.09.08<<} {++could++}{>>@whb - 2013.09.08<<} {~~resulted~>result~~}{>>@whb - 2013.09.08<<} in a $1.5 million fine. Thus, in addition to ensuring we are ethical about{++ handling our++}{>>@whb - 2013.09.09<<} patients' PHI, {~~violating~>we should also be sure to ~~}{>>@whb - 2013.09.09<<} {--HITECH --}{>>@whb - 2013.09.08<<}{--HIPAA--}{>>@whb - 2013.09.09<<} {~~rules could be a~>avoid ~~}{>>@whb - 2013.09.09<<} {~~very~>such~~}{>>@whb - 2013.09.09<<} costly error{++s++}{>>@whb - 2013.09.09<<}. 
+
+
+As the deadline for compliance with the new HITECH rules approaches, we at Neuropsych Now will post articles that:
+
+1. We feel is important [^2] 
+2. Help you identify potential problems in your own practice
+3. Help you perform self audits to ensure you are keeping PHI {==secure==}{>>Marc, I didn't use track changes to redo the paragraph as a list; it got messy fast. @whb - 2013.09.09<<}
+
+{++The first of these articles should be up later this week, so please check back soon!++}{>>@whb - 2013.09.09<<}
+
+[^1]: American Psychological Association (2007). Record keeping guidelines. *American Psychologist, 62*(9), 993-1004
+
+[^2]: There was an unholy amount of information to review and filter out - far more than we could ever hope to cover - but we'll include multiple links with each article for further reading and resources. 

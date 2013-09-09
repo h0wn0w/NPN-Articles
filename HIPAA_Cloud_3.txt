@@ -1,0 +1,13 @@
+Title:				HIPAA in the Cloud - 3: Let's Get Digital
+Author:				W. Howard Buddin, Jr., Ph.D. & S. Marc Testa, Ph.D.
+Date:				09/04/2013 
+Tags:				Backup, Clinical, Cloud, Data, HIPAA, HITECH, Information, Network, PHI, Practice, Storage
+
+
+This specific topic is addressed in [*The Nationwide Privacy and Security Framework for Electronic Exchange of Individually Identifiable Health Information*](http://www.healthit.gov/policy-researchers-implementers/standards-interoperability-si-framework) portion of HIPAA. Relatively simplified fact sheets can be found [here](http://www.hhs.gov/ocr/privacy/hipaa/understanding/special/healthit/index.html) To state things conservatively, health care entities now *must* implement full EMR/EHR systems. In 2003, [The Kaiser Permanante Healthcare System](https://healthy.kaiserpermanente.org/html/kaiser/index.shtml) was one of the first in the nation to introduce a way for patients to access and manage many aspects of their healthcare, beyond just their records. Their [EMR system](http://thrive.kaiserpermanente.org/healthy-innovations) affords scheduling appointments and more (the web site is functional and *extremely* well-designed, too). 
+
+The point is not about keeping up with trends or living up to aspirational guidelines, though. The take home message is knowledge and compliance with these standards, and there's good reason for it. The office of Health and Human Services has increased the frequency and size of the finds it will implement for entities that are not compliant. Visiting their website (insert link here) reveals all of the settlements that have recently occurred. Any breach of PHII must be reported.
+
+As we noted in the second part of this series, many of the factors that can get you in trouble can be easily avoided.
+
+Maybe add the entirety of my links note from notational velocity
