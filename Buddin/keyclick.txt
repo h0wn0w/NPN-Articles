@@ -1,0 +1,36 @@
+Title:				Mouse versus Keyboard: Which is Faster?
+Author:				W. Howard Buddin Jr., Ph.D.
+Web:				http://neuropsychnow.com
+Date:                 03/16/2013 
+Tags:                 Computer, Productivity, Reports, Report Writing, Tech, Writing
+Base Header Level:      1
+
+A large part of our job here at Neuropsych Now is to help you increase your efficiency at work. Specifically, our mission is to help fine-tune your work on and with the various computers and devices that you use on a day-to-day basis. To this end, we watch colleagues, co-workers, friends and loved ones interact with their desktop and laptop computers all the time. Sometimes watching these person-machine interactions can be difficult for us. Sometimes they can be the visual analogue of nails on a chalkboard. Why? 
+
+{{Some of these observations are difficult for us because we know (or at least believe) that there's a better way; however, it's not just about saying "we think this is better because it's what *we* do." We have evidence. *Empirical* evidence. We are, after all, neuropsychologists just like you. }}{>>this might be cut<<} 
+
+One of the things we know is that using keyboard shortcuts (or keybindings if you're willing to *really* go down the rabbit hole) to navigate your way through an application or program is nearly always faster than using a mouse or trackpad to accomplish the same task. 
+
+The degree to which one method of command entry differs from another has been studied by members of the Human Factors and Ergonomics Society (Omanson, Miller, Young & Schwantes, 2010). The point is that keyboard entry requires recall of the correct key(s), followed by key presses. By comparison, use of a mouse potentially requires many more steps. Consider the following steps in the table below. 
+
+| Key versus Click	|	|  
+| Keyboard Entry	| Mouse/Trackpad Entry	|  
+| :----------	| :-----------	|  
+| 1. Recall command key	| 1. Determine which menu contains item	|  
+| 2. Hold control key	| 2. Look for menu	|  
+| 3. Press command key	| 3. Point to menu	|  
+|	| 4. Click mouse	|  
+|	| 5. Look for item	|  
+|	| 6. Point to item	|  
+|	| 7. Click mouse	|  
+
+*Note:* adapted from Omanson, Miller, Young & Schwantes, 2010
+
+To be sure, the table presented above (a) does not apply in all situations, and (b) is reductionistic. Nevertheless, it provides a good comparison of the cognitive and motoric requirements of the two entry methods. Here's a plausible real-world example for the sake of discussion:
+>Person A asks if either Person B or Person C can help her retrieve a book located somewhere in their office. Person B can describe to Person A where it is with 100% precision. Person B, however, must take Person A by the hand, walk them down the hall to the room where the book is located, and point directly to the book. 
+
+It goes without saying that the former of these is inherently more efficient. Person B's method is akin to a keyboard shortcut. Person C's is more like using a mouse or trackpad.
+
+Nearly all applications/programs/apps that you use on a day-to-day basis have keyboard shortcut equivalents to their menu counterparts. It's likely that you're already familiar with some of these: `Cmd/Ctrl + S` (Mac/Windows) for "Save," `Cmd/Ctrl + C` for "Copy," `Cmd/Ctrl + V` for "Paste," and so on. Software developers, unfortunately, do not always make keyboard shortcuts known or obvious to you, the end-user. It's likely that this is at least part of the problem behind learning them for some. 
+
+Whatever the reason you may have for not learning some time-saving keystrokes, we humbly suggest you dive into your favorite (or most often-used) program's menu bar and/or instruction manual. Try and find out what the various keyboard shortcuts are, and try them out. You'll be surprised at how quickly they will become part of your "muscle memory," *and* at how much time a few well-placed commands can save you.  

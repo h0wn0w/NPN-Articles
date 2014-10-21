@@ -1,0 +1,59 @@
+Title:			Data Backups, Part I
+Author:			W. Howard Buddin, Jr., Ph.D.
+Category: 	Article
+Date:               			
+Tags:			Backup, Data, Tech 
+
+There are two types of computer users: those who *have* lost data, and those who *will* lose data. As such, this point cannot be overemphasized: **back up your data**. It's easier than you might think to develop your own air-tight backup plan. The Internet is [flush with examples](https://duckduckgo.com/?q=computer+backup+strategies) of how to configure a backup plan, and discussing all the different configurations is far beyond what can be covered in this post. This is in part due to the fact that the "correct" strategy is user-dependent.
+
+The prices on Hard Disk Drives (HDD) began to drop a couple of years ago. And then they plummeted. There is no shortage of 1 TeraByte (TB) HDDs for $100 or less. You can find several [right here](http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&N=100022991%204027%20600030775&IsNodeId=1&name=1TB). A TeraByte of storage is enough to hold a lot of reports and outputs from scoring programs. Like **a lot** a lot.  
+
+On top of dirt-cheap storage, both the [Windows](http://windows.microsoft.com/en-us/windows7/products/features/backup-and-restore) and [Mac](http://www.apple.com/support/timemachine/) operating systems (OS) come with applications built in to the OS that automate the backup process for you. Simply plug in your external drive, and it does the work for you. Check your operating system guide, help menus, or run an internet search for more information on built-in backup programs. 
+
+## Beyond Family Pictures ##
+
+For practicing clinicians, the most important files to target for backup are probably patient reports. There are other important things to backup, though, like the scoring or testing programs that you have spent good money on -- possibly thousands of dollars. Things get real when (not if) one of the programs you rely on becomes unusable due to computer failure, and the software developer may or may not allow a *gratis* re-installation of the software. Software development companies are (rightly) going to protect their interests, and there can be strict limits regarding re-installation of software. You may need to call the developer/publisher's customer service. They may or may not be helpful or friendly. They may or may not tell you that you need to purchase *another* license key at full cost. Your mileage may vary. 
+
+## Best-Case Scenario ##
+
+The best case scenario with re-installation is that you've lost *hours* of time. Easily. If you are *sans* backups, this best-case scenario following a computer crash or other failure assumes some or all of the following: 
+
+1. You were able to successfully diagnose and correct the reason for the computer's failure/crash yourself[^1]
+2. You have all installation discs/downloads (in the form of disk images)
+2. You were able to successfully re-install the computer's operating system
+3. You were able to update the base operating system to the most recent version, with all necessary drivers and security patches
+4. You are able to configure network settings to connect to the Internet[^2]
+6. You have necessary license keys
+7. The developer has not blocked a re-install or has permitted a re-install with the same key
+
+That's all. Easy, right?
+
+It's all but certain that few, if any, clinicians have the time or wherewithal to execute the above steps.  
+
+## Backup Media
+
+* Backup strategies effectively begin here: with the media, or type of device on which you'll be storing your data. Like all other components of a good strategy, what you'll use is determined by what and how often you'll be backing up your data. 
+
+###  Optical Discs and USB
+
+Both optical discs (i.e., CD, DVD) and USB flash (or "thumb") drives can serve to store relatively small backups. Such backups will likely consist of your most important files, photos, videos, passwords, etc. 
+
+* **Optical discs** are great for archival purposes. Some types can be written only once, whereas others can be rewritten, which allows for updating of contents. Two pitfalls associated with this medium are:
+	1. Risk of scratching
+	2. Degradation of the aluminum (or, in some cases, gold) surface of the disc over time. If you plan on archiving to a disc and storing it away in a case, neither of these should be of any real, immediate concern. 
+* **USB/Thumb/Flash Drives** are more flexible than optical media, in that they can be written to as many times and as often as you'd like. They are more susceptible to the hazards of day-to-day life, though, as you're more likely to tote them around with you. Shortcomings include: 
+	1. Broken connectors
+	2. Accidental file erasure (by *you*) 
+	3. Loss of the drive itself 
+
+* **Internal and External Hard Disk Drives (HDD) and Network Attached Storage**
+	* **Hard Disk Drives (HDDs)** come in immense array of storage capacities, and generally are one of two form-factors: (1) 3.5" ("desktop" size) or (2) 2.5" ("laptop" size). The smaller, laptop form factor may come in a case, and is generally "portable." Such a drive affords the portability of a USB drive, but offers many times more storage capacity. 
+	* HDDs can be attached directly by cable or indirectly by being "wired in" to a network (referred to as Network Attached Storage or [NAS](https://en.wikipedia.org/wiki/Network-attached_storage)). 
+
+In the next post, we'll discuss some of the differences in types of backups and synchronization services. Until that post, take some time to explore the various backup options, and see if you can identify which strategy might be best suited to your needs. 
+
+
+[^1]: Remember, this is *best* case scenario, meaning you didn't take it to a repair facility to be fixed. That's extra time *and* money.
+
+[^2]: That fancy-pants, enterprise-class, HIPAA-compliant network you had *Dork Squad* set up? Here is where you get to see how good it is. If you don't know what a rotating, 24-bit hexadecimal WPA2 pre-shared key is, you're pretty much screwed. 
+

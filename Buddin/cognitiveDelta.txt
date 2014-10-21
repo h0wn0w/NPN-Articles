@@ -1,0 +1,15 @@
+Title:				Measuring Impairment in Premorbidly High Functioning Individuals
+Author:				W. Howard Buddin Jr., Ph.D.
+Category:           Article
+Date:                   08/17/2014 
+Tags:                   Assessment, Practice
+
+According to the normal distribution, about 84-ish percent of Westerners have neurocognitive abilities somewhere up to the Average range. 
+
+So, what happens when we get someone in front of us that started further up the curve, say, 95th percentile? More to the point, what if their abilities started off in the superior range and have now dropped to the high average or average range? Now let's complicate things even more: what if there are no pre-existing cognitive measurements for a reference (hard to believe, I know)? How would you even know that they used to have e.g. a superior intellect? 
+
+What we are talking about here, of course, is estimation of premorbid intellectual ability.
+
+## In walks science
+
+Neuropsychologists are faced with the prospect of measuring premorbid abilities quite frequently. Fortunately, there are several means by which we can arrive at these estimates. Unfortunately, there are situations when and where we might have an over-reliance on our tests.

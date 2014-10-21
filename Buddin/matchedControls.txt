@@ -1,0 +1,9 @@
+Title:matchedControls
+Author:
+Category: Article
+Date:06/03/2014
+Tags:
+
+A matched control design is one with individuals in a control group that ostensibly match one or more characteristics of the test group. This particular design has the advantage of controlling for variables that might otherwise influence the results of the study. So, for example, if you wanted to determine the success of an educational intervention to increase financial savvy, you might want to match participants on  age between the control versus test groups. You would do this based on the idea that age has some sort of mediating effect on financial knowledge. You might be correct in this assumption, based on some existing literature; however, you may not be correct. It may actually be the case that because of the recent financial crisis and the growing burden of student debt that college students are more financially savvy than individuals in their 60s or 70s. Furthermore, it may be the case that many people near retirement age have a very low level of financial aptitude, as evidenced by the need to work beyond the age of 65 secondary to poor financial decisions across the lifespan. In this case, the pre-existing literature is effectively dated and useless because cultural Zeitgeist has changed. Or whatever. 
+
+if they matched model is your design, then go for it. Otherwise leave it alone; there are far better ways to control for certain variables and most research situations.

@@ -1,0 +1,22 @@
+Title:		How To Automatically Generate Tables In Microsoft Word
+Author:	W. Howard Buddin Jr., Ph.D.
+Category:	Article
+Date:
+Tags:	Application, Reports, Word
+
+Microsoft Word has many, many (too many) features that make it both a [blessing and a curse as a word processor](http://neuropsychnow.com/2013/07/hackWord). It does shine in one respect, though: tables. In the right hands, really good looking tables. 
+
+No matter your personal style of report writing, everyone uses tables in some or all reports. You probably have a separate `.doc` or `.docx` file with table templates that you use to quickly copy and paste tables from the template file into your main report file. Handling table generation in this manner is absolutely a viable strategy; however, it involves one too many steps. Maybe two or three too many steps. This might seem like a trivial matter. When it comes down to it, though, these two or three quick steps add up. Moreover, Word's tables are particularly susceptible to corruption, especially if you are collaborating on a file. In the event your template gets corrupted, there would be little choice but to start from scratch with a new tables template file (unless you have a backup).
+
+So, is there a better way to generate the tables you need for your report? Is there also a way to make your tables less susceptible to file corruption or loss? Yes and yes. 
+
+## Super Automatic Table Generation
+
+Rather than write about it, here is a screencast featuring your new best friend, Auto Text. Enjoy!
+
+<div>
+<video src="/Users/Howard/Movies/iMovie\ Events.localized/AutoText/autoText.mov" controls>Auto Text Movie</video>
+</div>
+
+
+

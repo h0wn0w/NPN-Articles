@@ -1,0 +1,74 @@
+Title: 				HIPAA in the Cloud
+Author:				W. Howard Buddin, Jr., Ph.D.
+Date: 				07/18/2013
+Tags:				Cloud, Data, PHI, Practice, Security
+Base Header Level:				1
+
+The The Health Insurance Portability and Accountability Act of 1996 (HIPAA) guidelines established the [Privacy Rule](http://www.hhs.gov/ocr/privacy/hipaa/understanding/srsummary.html), which granted federal protection to Protected Health Information (PHI). HIPAA is something that all practitioners should know and understand. All students since the late nineties should have received at least *some* instruction regarding HIPAA as part of their graduate education. The transmission and storage of Electronic Medical Records (EMR), however, is one of those things that probably falls into the category of "*things they didn't teach you in graduate school*." This specific topic is addressed in [*The Nationwide Privacy and Security Framework for Electronic Exchange of Individually Identifiable Health Information*](http://healthit.hhs.gov/portal/server.pt?open=512&objID=1173&parentname=CommunityPage&parentid=3&mode=2&in_hi_userid=10741&cached=true) portion of HIPAA. Relatively simplified fact sheets can be found [here](http://www.hhs.gov/ocr/privacy/hipaa/understanding/special/healthit/index.html). 
+
+To state things conservatively, the health care world is moving towards a full EMR system. More accurately, major health care organizations are already there. In 2003, [The Kaiser Permanante Healthcare System](https://healthy.kaiserpermanente.org/html/kaiser/index.shtml) was one of the first in the nation to introduce a way for patients to access and manage many aspects of their healthcare, beyond just their records. Their [EMR system](http://thrive.kaiserpermanente.org/healthy-innovations) affords scheduling appointments and more (the web site is functional and *extremely* well-designed, too). The point is not about keeping up with trends or living up to aspirational guidelines, though. The take home message is knowledge and compliance with these standards, and there's good reason for it. 
+
+## Yep. Thanks. We Learned About That in Ethics Class ##
+
+
+The following caveat was issued in the APA's most recent issuance of record keeping guidelines (APA, 2007):[^1]  
+>"Appropriate security procedures protect against the loss of or unauthorized access to the record, which could have serious consequences for both the client and psychologist. Access to the records is limited in order to safeguard against physical and electronic breaches of the confidentiality of the information. Advances in technology, especially in electronic record keeping, may create new challenges for psychologists in their efforts to maintain the security of their records (see Guideline 9)."
+
+New challenges, indeed. Among the many threats to Protected Health Information (PHI) are malicious hackers, physician loss, and unintended disclosure; there are other sources. From January 2011 through December 2012, nearly 8.5 *million* medical records were compromised in some way. If these numbers seem absurd, please conduct your own query at the [Privacy Rights Clearinghouse](https://www.privacyrights.org/data-breach). After a report gets generated, scroll down. It's a very, very long page. Each event in which records were compromised is logged, with a description of exactly what was compromised and how it happened. Scary stuff. 
+
+So what, exactly, can practitioners do to help safeguard data? 
+
+## Strategies: Good and Bad ##
+
+Here are a few fairly universal tenets of electronic data storage and security. 
+
+Here are a few things you should be doing:  
+
+* Use a WPA2/PSK-secured network at your office AND home. There is no such thing as a truly secure network, but this is the current best-practice standard. 
+* Use [SFTP](https://duckduckgo.com/SSH_File_Transfer_Protocol) for transmitting files to a server or for sharing between yourself and another party.
+* Encrypt your computer's main drive or your "User" folder using programs like [True Crypt] or [File Vault][^2]. Encryption of a physical drive is the first and last line of defense. 
+* Make sure your computer requires a password on startup *and* wake from sleep. If someone gains physical access to your computer, and you don't have some form of protection, it's game over.
+
+Hopefully, you do ***not***: 
+
+* Use Google Docs, SkyDrive, or equivalent services for storing your patients' PHI. This is just asking for trouble.
+* Create passwords using only English-language words. These are easily cracked with a [Dictionary Attack].
+* Use the completely non-secure File Transfer Protocol (FTP; use SFTP instead - see above) or email for storing or transmitting PHI.
+
+## Passwords ##
+
+We are *almost* finished beating this drum. Promise. 
+
+Your computer and mobile devices should be password protected. Several applications are available to help you both create and manage strong passwords. Here are a few of them to help get you started:
+
+* [Symantec Password Generator](http://www.pctools.com/guides/password/)
+* [1Password](https://agilebits.com/onepassword) (for Windows and Mac desktops, as well as Android and iOS)
+* [KeePass](http://keepass.info/)
+
+Here are some broad, but essential, password pointers to consider:
+
+* Use passwords with a minimum of 12 alphanumeric characters. 
+* Try to avoid use of a single, English-language word with one or two numbers at the beginning or end of your password. This is a common pattern and highly susceptible to systematic *guessing*.
+* Passwords don't *have* to be like this 
+>`2V/kL[3)8I{l11ryOyzYo\(y` [^3] 
+
+	to be secure. They can be complex, unique, *and* memorable, e.g.,
+>`myfavoritecolorisredthoughifavormoreofamagentahue` [^4] 
+* Use of DIFFERENT passwords for EVERY account you have.[^5]
+
+We covered a lot of ground in this relatively short article. We'll likely address some more practical topics related to data security later. For now, though, sit down and relax for a few minutes. Then get some new passwords - the prefix "neuro" followed by your two-digit birth year is hardly secure. 
+
+[Public-Key encryption/authentication software]: http://www.truecrypt.org/links
+[Dictionary Attack]: http://www.codinghorror.com/blog/archives/001206.html
+[True Crypt]: http://www.truecrypt.org/
+[File Vault]: https://support.apple.com/kb/HT4790
+
+[^1]: Record keeping guidelines. American Psychologist (2007) vol. 62 (9) pp. 993-1004
+
+[^2]: Mac OS only
+
+[^3]: Generated by an *actual* password assistant program for illustrative purposes only. Neither of us use, have used, or will use this password anywhere for anything. Ever. 
+
+[^4]: Also not a password either of us use.
+
+[^5]:  No, this is not as easy as what you're used to. Yes, you will thank yourself for putting in the extra work now.

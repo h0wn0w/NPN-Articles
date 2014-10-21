@@ -1,0 +1,23 @@
+Title:Auditory Testing Gear
+Author:
+Category:Article
+Date:07/14/2014
+Tags:
+
+
+Remember when you first learned about measuring auditory processing? You were told, in no uncertain terms, that the quality of the equipment that you used was important, right? Right??
+
+No. No you were not. Allow us, then, to clarify the issue: the quality of the equipment that you use when assessing auditory processing is important. 
+
+## A Quarter Note About Audio
+
+I am a card carrying audiophile, but without the sanctimonious airs often accompanying this moniker. I am also a recovering gearhead from my days as a working musician. I started learning about live sound reinforcement when I was 14 years old, running the public address system for pep rallies and basketball games at my high school. Finally, to the consternation of my wife, I have enough spare cabling in my attic to simultaneously wire a small business and a home theater, with some to spare. ![My Cables. The ones *not* in use](/Users/Howard/Sites/bootstrap/img/howards-Cables.jpg). It is what it is. In varying degrees and forms, this is a hobby. Or an obsession in deep hibernation. Take your pick.
+
+It should come as little surprise, then, that this all transferred over to the testing environment.
+
+## Gear
+
+If you are administering any auditory tests using tape cassette: no. 
+
+* Behringer 5 channel mixer
+* Logitech/Ultimate Ears

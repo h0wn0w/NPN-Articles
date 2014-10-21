@@ -1,0 +1,17 @@
+Title: Processing or Plain Writing?
+Author: S. Marc Testa, PhD
+Web:	 http://neuropsychnow.com
+Date: 08/07/13 
+Tags: report writing, applications
+Base Header Level: 2
+
+Microsoft Word (MS Word) is a large, feature-rich, word processing application used by ~500 million people and (probably) more than 98% of psychologists (most of whom are also people). For many purposes, however, MS Word and other word processing applications may not be the best or only solution for professional writing.
+	
+Electronic medical records (EMRs) and mobile computing are becoming more prevalent. This means the need for heavily formatted documents is diminishing and the demand for highly portable writing solutions is growing. An alternative to a word processing application is a plain text editor. While most are familiar with Notepad on Windows or Text Edit on Mac OS, there are many other options available. Plain text editors use platform-agnostic files (like .txt) which, incidentally, are easier to use in conjunction with electronic patient records than MS Word's .doc or .docx files. Plain text editors are also the easiest way to create content on a mobile device and because they are so basic, the tendency to become distracted by formatting is minimized. [Here](http://ricardo.ecn.wfu.edu/~cottrell/wp.html) is a more detailed comparison of word processors and text editors.
+	
+Though most psychologists who use MS Word in their everyday practice will be reluctant to switch tools completely, many clinicians probably have some interest in using their phone or tablet for writing. There are a number of options available for those who are willing to change their workflow and incorporate text editors: 
+1. Use a plain text editor for content creation (i.e., capturing words  and ideas without formatting). Dictation is readily available on mobile devices and works really well with simple text editors. If needed, the created content can then be copied and pasted (or opened) in a word processor for formatting or pasted into an EMR...or... 
+2. As demonstrated in our recent [screencast](http://neuropsychnow.com/2013/08/gettingreportsdone_2),  a text editor, like [MultiMarkdown Composer](http://multimarkdown.com/), can be used with a text expansion application, like [Text Expander](http://smilesoftware.com/TextExpander/index.html), to create an entire clinical report. The same could be accomplished on an iOS device using [various text editors](http://brettterpstra.com/ios-text-editors/). Capable text editors are also available on [Android](http://appcrawlr.com/android-apps/best-apps-markdown-editor) and [Windows](http://writemonkey.com/), but the options for text expansion are limited (see [here for Android](http://lifehacker.com/5844895/the-best-text-expansion-app-for-android) and [here for Windows](http://lifehacker.com/5844126/the-best-text-expansion-app-for-windows)).
+
+The bottom line is that there are options available to make your work faster and more efficient. Check out some plain text editors and give one of these workflows a try. Let us know how it goes!
+	

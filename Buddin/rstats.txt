@@ -1,0 +1,24 @@
+Title:		Statistics Program: R You Ready?
+Author:		W. Howard Buddin Jr., Ph.D.
+Web:		http://neuropsychnow.com
+Date:           01/05/2013
+Tags:           Statistics, Research, Applications
+Base Header Level:      	1
+
+Most Neuropsychologists have either heard of, or are familiar with, [SPSS](ref), [SAS](ref), and/or [Stata](ref).[^1] These programs afford incredible data analysis power, and allow researchers to perform Sisyphen analyses over redoubtable datasets.  
+
+The most powerful stats program in the world, though, is not among those just listed. The stats program is called, quite simply, "R," and it can be downloaded [here](http://cran.r-project.org/). 
+
+It is also entirely free, making for some modest savings when compared to SPSS ($price), SASS ($price), Stata ($price), et al.
+
+R is available for Mac, Windows, and Linux Operating Systems. It uses plugins (called "packages") that have been created by an extraordinarily active developer community that is largely made up of scientists. Literally thousands of packages have been created by people the world over, and are free to download [^2]. If you can think of a statistical test or procedure that involves more than one step, or involves several disparate tests, odds are *very* good that what you're thinking of has already been "packaged" by someone else, and made available for download.   
+
+The power of R is also far-reaching: it can perform analyses on datasets that *aren't even on your computer*. With some syntax wizardry, you can hook up to *any* publicly available database on the Internet. 
+
+Are you an SPSS user? SPSS can interface with R, exploiting R's much more robust capabilities to run analyses that are not possible in SPSS's native state. 
+
+Link up to the [ropensci project]()
+
+[^1]: These pretty much dominate the market. Sadly, SPSS has become bloated and comes with abysmally poor customer support. 
+
+[^2]: This is a shining example of the power of the open-source movement/community. Read more about the  open-source movement and how it inspires Neuropsych Now on our [About This Site](http://neuropsychnow.com/aboutsite.html) page.

@@ -1,0 +1,13 @@
+Title: CNAD
+Author:
+
+So, what are we going to do with the incomplete definition for computerized neuropsychological assessment devices?
+
+What about that fish-tank looking thing that is used to administer the Wisconsin Card Sorting Test? It is every bit as much of a computer has any of the Apollo lunar craft.
+
+# top
+
+*Rationale*
+
+
+*implementation*

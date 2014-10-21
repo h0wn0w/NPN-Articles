@@ -1,0 +1,90 @@
+Title:Q-Interactive: Several Months On
+Author:W. Howard Buddin Jr., Ph.D.
+Category:Article
+Date:
+Tags:Assessment, Technology, Testing
+
+
+## The Not-Neuropsych End of Things ##
+
+This article was originally going to be called "Farther Down the Line," or something like that, but over time the title felt less and less appropriate. 
+
+I have had several interesting experiences over the past nine or so months while using Q-Interactive, Pearson's still-nascent endeavor in the world of device-enhanced/assisted neuropsychological assessment. This article is about capturing  and detailing the most notable of these experiences, both positive and negative.
+
+## Redux
+
+As I pointed out in our [first article][1], I occasionally experienced some hiccups with the iPad apps. The main issue was an error message occasionally telling me that I was running out of memory. Briefly, this was frustrating because there seems to be no rapid way to free up memory, and because I rarely had anything else running in the background. This seemed indicative of a "memory leak," which is the term used to describe what happens when threads of a program are stored in memory, are unaccessible by the rest of the program, and (may) continue to loop unnecessarily, eating up available memory as a function of time/program use. The only solution I found was to force quit the app, restart, sign back in, etc. Memory leaks can only be diagnosed by going through the source code and running tests, so I cannot definitively say that is what the problem was; however, the cascade of events running from problem to solution are highly correlated with symptoms of memory leaks.
+
+Fortunately, I have not run in to this problem in a while, so I'm hoping/guessing that it had been fixed over some of the updates that have been pushed out over the past several months. There is no way to tell if this is the case, though, since the changelogs only ever detail changes in test material or content.
+
+The next problem I had made the memory leaks seem like a pleasant memory.
+
+It was a Saturday, and I was working on some scoring for a feedback the following Monday. Part of what I needed to do was download the scores from a WIAT-III. I tried to log in to the Q-Interactive portal, but got an error message saying my account couldn't be found. I cleared my browser's cache[^1] and tried to log in again, in case I had simply typed in the wrong password - I had not, and was shut out of my account. It is more accurate to say that I seemed to not even *have* an account: as I later learned, the system "thought" my account had expired, leaving me with no access to my files.
+
+I tried logging in on Sunday. Same deal. Monday? Same deal. I called Pearson's support line, and was not reassured by the tech rep's statement that the situation was being worked on. To make a very long story short, here is the rest, play-by-play:
+
+* The rep tells me Q-Interactive is still in beta, please understand. There is nothing to understand here, this is boots-on-the-ground software, and they simply cannot ship a [*minimum viable product*][mvp] to clinicians who are using this in the process of delivering healthcare.
+* At this point, I tell them that I am going to cancel the license since they are failing to hold up their end of the contract.
+* I subsequently contacted the Pearson regional representative via email and explained the situation.
+Later that evening, I received a voicemail from the vice president of Pearson's Q interactive division and from their research director. They wanted to speak with me on a conference call.
+* I called back, ultimately speaking with the research director. I explained that I was furious that, among other reasons, Pearson had no weekend support for something like this. I explained to him that neuropsychologists, like so many other healthcare providers, work on weekends all the time.
+* Ultimately, Pearson establishes weekend support for Q-Interactive.
+
+Credit where credit is due: they responded fairly quickly and positively to my complaints in this instance.
+
+Although it doesn't necessarily count I'll go ahead and give a full disclosure here: Pearson extended my license for an extra month as amends for my headache and heartache. I say that it doesn't really count because it's not as though they are sponsoring Neuropsych Now, nor did they offer the extra month in exchange for a favorable review, but I thought it important to throw it out there anyway.
+
+## Okay, Now the Testing Part ##
+
+Currently, Q-Interactive supports the administration of several tests/batteries. For a complete listing, see their [tests page](#)
+
+### The WAIS/WISC-IV ###
+
+Administering the WAIS-IV and WISC-IV on Q-Interactive are extraordinarily straightforward experiences. It is less a "computer assisted" design paradigm, and more a digital reworking of the test.
+
+Several of the performance-based tasks on any of the iPad administer versions have touch targets. That is, the patient can simply tap their answer (e.g. Matrix Reasoning), which then transfers the response to the examiner's iPad. Not surprisingly, most of my patients have intuited this, and tap their responses without hesitation.
+
+### The WMS-IV ###
+
+First things first: I am not a big fan of parts of the WMS-IV. That said, administering and scoring the WMS-IV on the Q-Interactive platform is a superior experience compared to the traditional model, though the tablet version is not beyond reproach. In particular, I like the way that the developers handled the WMS-IV Visual Reproduction scoring. What once required potentially substantial time, some of which was spent *just flipping through pages of the scoring manual*, has now been pared down by presenting all items and scoring criteria - with examples - on a single, scrolling page. Nice.
+
+### Handwriting ###
+
+As far as I can tell, every screen during administration allows one to bring up a modal window on which handwritten notes can be taken. This further consolidates material into a single interface. If you've ever used another app on the iPad for jotting down notes with a stylus, then you know that some of them can render strokes that are almost artistic like. So how does the Q-Interactive note taking window compare? I made passing mention at this in our first article, when my feeling was "stay tuned." Well, my opinion has now been rendered: it's downright miserable. The worst. At my very best, when I am cautiously, carefully and slowly writing on the notes panel, you could look at the result and be forgiven for thinking that I have a very slight intentional tremor. Additionally, the pressure that one exerts on the screen must be both consistent and fairly exact: The interface seems to respond randomly and variably to changes in pressure, and the stylus may not accurately transfer strokes, if at all.
+
+Why is this important aspect of evaluation so poorly executed? It may possibly represent an intentional compromise on the part of the developers: the added computational weight of a solid handwriting rendering engine was possibly simply too much to run the application efficiently.[^leaks]
+
+At the end of the day, all the speculation in the world is meaningless, because we will never know why this particular feature is so profoundly abysmal compared to every other writing experience on the iPad[^bad]
+
+### The Ups
+
+Overall, there are some notable improvements and changes since I first reviewed Q-Interactive. For starters, there are more tests available on the platform, including the Clinical Evaluation of Language Fundamentals - 5 (CELF-5) and the Peabody Picture Vocabulary Test, Fourth Edition (PPVT-4). The WISC-V will soon be added to the list. So, the platform is slowly becoming more versatile. This probably is a good point to mention one of the greatest benefits behind using Q-Interactive: the ease of adding new batteries or tests. When something new becomes available, it shows up on the iPad app's test selection screen. Assuming you have the appropriate license, you can begin using the new test immediately.[^2]
+
+### The Downs
+
+Formerly no support on weekends - they changed this secondary to my complaint; very responsive
+
+Added online support, which includes examiner's and technical manuals (slow, no links, simply flattened versions)
+
+Although somewhat pedantic, one issue with the pricing on test administration is worth mentioning. When you look at the cost of administering e.g., a WAIS-IV, the cost is put forth as a $1.50 per subtest, or $15 for the battery. This is misleading, as it does not include the cost of the response booklets, which come out to about $2.50 a piece. This varies by battery, and is much more expensive for e.g., a NEPSY-2.
+
+## The Future
+
+So, is Q-Interactive *truly* the evolution of neuropsychological assessment? Is porting an existing test into the world of ones and zeros good enough? Does that translation of paper to screen really maximize the potential of what could be? In the end, I'm not so sure. Some ideas: 
+
+* What about a measure of intelligence that was more *active*? I'm thinking about Item Response Theory here. This could be a big paradigm shift in neuropsychological testing. Think about it: a test that selects the next item from two or more options based on the current response would more truly capture a person's ability to intelligently adapt to increasingly difficult items, discontinuing when appropriate. We might actually *encourage* repeated assessments, whereas we now frown on temporally-proximal assessment periods, for fear of the relatively unsubstantiated "practice effect." If IRT were built in, the patient might benefit from practice, but they would also be subject to harder items. In this way, we would, for the first time ever, have the opportunity to truly measure adaptive learning between T1 and T2; would they be able to recognize, acquire, and implement any strategies they learned from the first go-round? 
+
+These are just some off-the-cuff ideas. My bet is nothing like that is in the works. To develop such a thing would also require one to take on a high degree of risk and push this new paradigm, which in itself could lead to professional failure.
+
+Of note: I recently was doing an assessment at a County detention facility. I wrote the captain prior to going there, requesting that I be allowed to use the iPads for test administration. After much back and forth and bowing and scraping, I was allowed to take my iPads into the detention center and administer the Q-Interactive WAIS-IV and WMS-IV.
+
+[^leaks]: this might hold especially true if there were undiscovered memory leaks artificially running up the application's overhead.
+
+[^bad]: I say this with great confidence, even without having tested every single app that supports the use of a stylus for handwriting purposes. Any such app released that was this bad would be drummed out of the app store by poor reviews.
+
+[^2]: See their [ordering information page](http://www.helloq.com/pricing.html#ordering) for a complete layout of licensing options and costs.
+
+
+[^1]: Basically a formalized, automatic gesture in a case like this, since I use a password manager and *never* store login credentials in any browser
+
+[1]: http://neuropsychnow.com/2013/12/qinteractive

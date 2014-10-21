@@ -1,0 +1,54 @@
+Title:Synchronicity
+Author:
+w
+Category:
+Date:06/11/2014
+Tags:
+
+## Synchronicity
+
+Waaaayyy back in the day, keeping files on sync between two machines took some doing, and a non-trivial amount of *savoir faire*. There now exist multiple services for synchronization to "the cloud." Keeping your data synchronized between various devices is an automatic process. Synchronization services are all but ubiquitous now. This has really been an area of growth in the Web services sector over the past three or four years. Gone are the days when we all had USB thumb-drives hanging from our keychains, ready to plug into a local machine for file transfers. It's safe to say that we can effectively have our data with us anywhere, at any time
+
+## Advantages
+
+1. Automatic
+2. Reliable
+
+
+
+* dictated section below. Fold together.
+
+ 
+
+There are a handful of major players in the synchronization/cloud storage business. Most notable are Dropbox, Microsoft's One Drive, Google, Box, and Apple's iCloud. One of the less well known companies [SpiderOak](#); although you may not have heard of SpiderOak, it's a company well worth a longer look. We will talk more about them a little bit later on. First, though, it is worth talking about what these services have in common, their benefits, and their shortcomings.
+
+## Commonalities
+
+Early iterations of synchronization services, such as [Sugar Sync](#), provided backup solutions that were only slightly different from the modern paradigm. Basically, you would select the files or folders that you wanted to synchronize/backup and the service would start. Certainly, that paradigm is still used, but has been largely supplanted in favor of an all-in-one synchronization location. That is to say, you need only place the  files and folders you'd like to sync in one dedicated directory[^1], usually predefined by the service. The advantage here is that you don't need to manage multiple files and/or folders across several locations on your machine. 
+
+
+
+The aspect shared by all of the major services previously listed is that thanks and to have fairly robust APIs (application program interface) and that these are well-maintained and exploited on multiple operating systems. In the mobile realm, especially with dropbox, third party application integration has become the rule, rather than the exception. Taken together, this means that multiple applications the side the native application, then leverage and exploit the API this is not simply you your files, but manipulate them in some way as well.
+
+## Pitfalls
+
+1. You don't "own" your data
+2. Not self-certified as HIPAA compliant
+3. What if the company goes out of business?
+
+There are some inherent risks with using and rely on the services as backup services there it generally, they are built for the purposes of synchronization. It's sort of a common wisdom that because our files to exist in more than one location that they are back the. Moreover, the greater danger is that we are lulled into a sense of false security. In reality, though, it might help to step back for just a moment him think in very logical terms of this: none of the aforementioned services have existed for more a handful of years. Indeed, iCloud is a shining example of why we should approach synchronization services with a dose of measured caution. ICloud is to some extent, the fourth iteration of Apple's foray into Web based services and renovation.
+
+Warning: if you have no interest in "how the sausage was made" style reading, then you might want to get ahead through
+
+. On a technical, behind the scenes level there is another problem with all of these services here are some extent. The problem is that every file on your computer has some level of changeable access control. Some files, like the ones buried in your deeper system level, have very height restrictions on them, so that they are not easily modified by anyone. Others, like the ones you create on your own, typically have more liberal access control, meaning that they are easy to read from and write to. When your files are synchronized any of these servers, part of the process rangers the permissions on those files. This means that if you're using it as a backup solution and need to download one or more files at a later date, you may find that they don't open properly, look a little garbled, war that you are unable to write new information to that file. This is because your computer is leading the list of permissions that were created server-side; these are the ones that were replaced when you upload them.
+
+One final (although there are others) is that none of the big players offer services that are truly encrypted and hidden from everyone except for his. Think of it like this: if you can email the call their technical work and reset your password, then they had access to your files. This is universally true. I don't care what they say. Spider Oak, however, is an entirely different story.
+
+## SpiderOak
+
+Water oak next mine bought a road offers both synchronization and backup. That is, you and selectively backup files their servers, and they offer the single location synchronization service. What's more, is that they advertise a "zero knowledge" service. This means that if you lose, forget, etc. your password, then you are screwed. They cannot access your information, no matter what. Furthermore, files are encrypted when they are uploaded, before they ever leave your computer, and when you need to download them the files are decrypted on your machine. This is handled by what is called a private/public the here. Others have noticed that by Baroque files take longer to both upload and download. I've heard more than a few times some frustration you this; people wonder if their computers are slowing down. It's actually slower, to be sure, but this is because of the encryption and decryption processes. 
+
+Lastly, SpiderOak has declared themselves as certified HIPAA compliant. None of the other services have issued such statements (this is how compliance with health insurance portability and accountability act works: it is up to the entity to make their own statement about compliance; there is not a checklist that is provided by the federal government for this, contrary to what is often believed.) We often talk about this or that as being compliant, when what we really mean is that this one that entity has issued a statement of self certification. There is an auditing process by which an external auditor will verify this statement, but, again, there are no direct guidelines.
+
+
+[^1]: or create hard or soft links

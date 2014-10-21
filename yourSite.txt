@@ -1,0 +1,16 @@
+Title: Your Web Site, Motherfucker
+Author:
+Date:
+Category:
+Tags: Awesomesauce, Medication, Pandemics
+
+If you are a private practitioner without a web site, you are likely harming your livelihood. Here's the thing: patients and referral sources are going to look up your information online. I'm always minimally unimpressed when I try to look up a provider of any ilk and find nothing but a listing on [HealthGrades](http://healthgrades.com), or, worse, The Yellow Pages. [^1] You are your brand. Your online presence has a dramatic impact on said brand. If you don't think that this is true, then you are doing yourself and your patients a disservice. 
+
+This raises a similar, yet separate topic. It might sound a little harsh to say it, but then, it *is* meant to grab your attention: the year is 2013. It is not 1983. Why on earth are so few of us making our Curriculum Vitas available online? [Here is my C.V.](http://howardbuddin.com/cv.html). I'm not posting it for the purposes of self-aggrandizement. I am posting it to try to raise awareness of what *could* be the *de facto* standard of CV delivery. If you have a doctorate, I can all but promise you that you can get a web site up with any number of hosting providers (a list is at the end of this article) within a day, and that your site will look good, if not great (there is a level of skill and *je ne sais quoi* involved when it comes to good-looking design). These providers offer drop-dead simple interfaces for web site building for very little money. 
+
+
+
+If anyone would like to build a website for themselves, but are short on time and know-how, please [contact us]. We offer consulting and can get a very respectable site up and running for you in a short time frame. If any of you out there would like to share your website with Neuropsych Now readers, please send us your URL so that we can feature it in an upcoming post. 
+
+
+[^1]: This is not a knock on The Yellow Pages. No, wait, yes it is. Exactly *how* are they still in business, and why do they continue to distribute those books? I guess it's a little unfair, as there are definitely people who use them to access businesses. Nevertheless, as a provider you have to do better.

@@ -1,0 +1,8 @@
+
+## The Paperless Dissertation ##
+
+*Warning: shameless self-promotion ahead*
+
+I did something completely bananas when I started writing my dissertation. I made a decision that I was going to attempt something that, as nearly as I could tell, had never been done before: I was going to attempt to write the first ever "paperless" dissertation. This meant I would do all my research, writing, and analyses without printing anything out. By extension (and by default), this meant that I was actually making the process *harder*, at least on the front end, but with the goal of saving time wire-to-wire. I succeeded, and by the end I probably shaved off at least 40 hours of grunt labor.[^2] 
+
+[^2]:	How did I calculate this figure? At the time, I had enough experience writing papers to know that producing a References section took an insane amount of time. The related parenthetical citations? Even more of a pain, as you have to constantly move them around and/or reformat them for various reasons. Based on previous work and the > 100 citations that were in the manuscript, I arrived at about 40 hours of work. EndNote (something I no longer use) was the part of my workflow that took care of everything in the background, thus eliminating almost all work associated with references and citations.

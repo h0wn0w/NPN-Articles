@@ -1,0 +1,15 @@
+Title:				(Title)
+Author:				(author)
+Web:				http://neuropsychnow.com
+Date:                             03/24/14 
+Tags:                            (tags)
+Base Header Level:        (headlevel)
+
+Marc, here is the valid URL (not the redirect) for the Loop article:
+
+http://www.loopinsight.com/2014/03/24/ipad-helps-trainers-monitor-concussions/
+
+And for Apple:
+http://www.apple.com/your-verse/concussion-game-plan/
+
+http://www.loopinsight.com/redirect?s=/feed/&perm=http://www.loopinsight.com/2014/03/24/ipad-helps-trainers-monitor-concussions/&perm_title=iPad+helps+trainers+monitor+concussions&u=http://www.apple.com/your-verse/concussion-game-plan/

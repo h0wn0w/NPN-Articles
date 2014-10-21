@@ -1,0 +1,49 @@
+Title:Dictation on Apple Hardware
+Author:W. Howard Buddin Jr., Ph.D.
+Category:Article
+Date:09/11/2014
+Tags:Tips
+
+## On the Mac ##
+
+Dictation on the Mac these days is far superior to what it used to be. In fact, dictation became a built-in benefit beginning with Mac OS X version 10.8 (Mountain Lion). Functionality was somewhat limited, though: you had a mere 30 seconds to say what you needed to say, and without any immediate, visual feedback. Nevertheless, this was a big move forward as it represented a viable, free alternative to the dominant (read: only) player in the market: [Dragon Dictate for Mac][dm].
+
+### Normal vs. Enhanced Dictation Mode ###
+
+Mac OS X version 10.9 (Mavericks) added the choice between selecting the normal, 30-second window of online dictation versus what Apple calls "enhanced dictation." In short, to get the "enhanced" mode you download a near 1 GB file that provides a library against which the Mac can source all of the things that you say and allow you to speak for an essentially unlimited like the time.
+This represented a potentially significant change, not only because dictation was now built into an operating system (which, at $20 for the OS, made it worth the purchase if only for the dictation alone), but it could be used off-line.
+
+## On iOS ##
+
+Dictation on most iOS devices[^2] is ridiculously simple. First, open any note taking or text editor app (e.g., Notes app). Second, press the little microphone-shaped icon to the left of the space bar. Begin speaking after you hear the "ding" sound. That's all there is to it.
+
+### The not-so-obvious back door method
+
+To implement this, you will need an application for your Mac called [Better Touch Tool](#), and its iOS counterpart, [Better Touch Tool Remote](#). The basic premise of the remote is to turn the iPad or iPhone screen into an extended trackpad, though it does much more than just that.
+
+### Security ###
+
+In case you were wondering, there are some potential security risks associated with using iOS/Mac dictation for your reports, at least if you are using the non-enhanced dictation. This is because what you say gets piped up to Apple's servers, where it gets compared against their lexicon and sent back with the most reasonably close interpretation. Of course, you probably remember that old chestnut from Section 4(c) of the [Apple iOS Software License Agreement][4]. Since this might very well be a true-to-life case of TL;DR,[^1] here is the text of interest: 
+
+>When you use Siri or Dictation, the things you say will be recorded and sent to Apple in order to convert what you say into text and, for Siri, to also process your requests.
+
+In my experience, this is what makes the difference between the online and offline versions of speech-to-text, at least on iOS. Your mileage may vary, but I've been able to throw the most arcane medical terminology at my iOS devices and it comes back correctly transcribed. Every. Single. Time. The file you download for enhanced dictation is just south of 1 GB, which is quite large, but not as large as the effectively limitless storage muscle that Apple has [been slowly building][http://scitech.blogs.cnn.com/2009/05/27/apple-plans-1-billion-server-farm/] - and [Now flexing][#] - for the past several years.
+
+
+[#]: http://what.com
+
+[^1]: For the uninitiated: **T**oo **L**ong; **D**idn’t **R**ead (the manual)
+
+[^2]: pre-third generation iPads, for example, do not support this feature.
+
+
+[basics of dictation]: http://support.apple.com/kb/HT5449?viewlocale=en_US&locale=en_US
+
+[dm]: http://www.nuance.com/for-individuals/by-product/dragon-for-mac/dragon-dictate/index.htm
+
+[general tips]: http://nuance.custhelp.com/app/answers/detail/a_id/6068/kw/What%20are%20you%20looking%20for/session/L3RpbWUvMTQwNzg3MTQ1Ni9zaWQvUTQzVkdHX2w%3D
+
+complete list of dictation help topics: 
+	http://support.apple.com/kb/index?page=search&product=&q=dictation&src=support_site.kbase.search.searchresults
+
+[4]: http://images.apple.com/legal/sla/docs/ios51.pdf

@@ -1,4 +1,5 @@
 Title:				Base Rates and Clinical Decision-Making
+Author: Khutulu
 Date:				07/22/2013 
 Tags:				Assessment, Data, Pathology, Practice, Syndromes
 

@@ -1,0 +1,17 @@
+Title:Uninstall SPSS
+Author:
+Category:
+Date:04/30/2014
+Tags:
+
+Uninstall SPSS 
+
+I had a new hard drive installed not quite two years ago, and I needed to uninstall and then reinstall SPSS. This is because SPSS is one of very few applications that, when installing, ties itself to your HDD's [Universally Unique Identifier][1] (UUID). Then, when you register the application, the UU ID is included in the license. The idea is to prevent the user from installing the software on more than the maximum number of allowed machines. I had already installed it on my two allowed machines, so putting it on a new hard drive was not going to happen. Thus, the need to uninstall first.
+
+## A Quick History
+
+In 2011, I purchased the very last copy *ever sold* of the four-year "SPSS Grad Pack" license [^1].
+
+[^1]: If anyone *really* wants to know how I know this, feel free to email me. Otherwise, just trust me. 
+
+[1]: http://en.m.wikipedia.org/wiki/Universally_unique_identifier

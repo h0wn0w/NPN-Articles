@@ -1,0 +1,41 @@
+Title: Data Backups, Part II
+Author:  
+Date:  
+Category: Article 
+Tags: Security, Tech 
+
+This follow-up to [Part I](http://neuropsychnow.com/2014/01/Backing_Up_Data) has been in the works for awhile. I was compelled to complete it after the recent failure of my Mac's file system structure. Basically, this amounted to a catastrophic failure of the entire machine. 
+
+For almost everyone I've ever met, this kind of scenario would neither begin nor end well. A bulletproof backup strategy, though, will have you cueing images of [Alfred E. Neuman](#) rather than Woody Allen. 
+
+Instead of covering varying degrees and types of backup strategies, I'm going to detail *my* strategy. Here is why: 
+
+The day things quit working, I left my office at 5:02 PM. My final [incremental backup](#) ran at exactly 5:00, and I spent the two minutes in between basically shutting down applications and processes. The extra two minutes of file changes were handled by two other systems: [Dropbox](#) and [SpiderOak](#). When things finally were put right, my computer was in the *exact state* as it had been at 5:02 PM. So, no data loss. At all. The other important variable is that this strategy is compliant with the pertinent HIPAA Security and Privacy rules. 
+
+Hopefully, your attention is piqued at this point. Let's get into the details.
+
+## Hard Drive, meet Dolly
+
+That's "Dolly," as in "Dolly - isn't that the name of that sheep clone or something?" Yes, that. Or something. 
+While Dolly wasn't perfect, a clone of your computer's internal system disk is. More importantly, a clone is a *bootable* copy of your computer. This means that if/when your main computer is inoperable, you can simply plug in the cloned disk to another computer, boot *that* computer using a specific procedure,[^1] and carry on with your work while waiting for a repair or replacement. Not bad.
+  
+I clone my computer once per week, twice if I'm being good. Honestly, a daily clone is a better idea, but I'm too lazy for some reason. 
+
+Despite the lack of frequent updates to my clone backup, I'm still not concerned about data loss. Why? Because I still have two other layers of backups that run throughout the day, every day. One of these is on-site, the other is off-site, or "in the cloud," as it were. 
+
+## Being Super-HIPAA Compliant
+
+...means extra work to restore things the way they were, but not *that* much extra work. The main problem, if you were further down the road than I was, would be to download 
+
+## Nuanced
+
+These are some of the other tasks that you may or may not have to complete in order to be back to 100%
+
+Passwords
+Store License keys (beware the UUID for programs like SPSS, which must be uninstalled from the old HDD first)
+Set up accounts (Dropbox, iCloud, SpiderOak)
+Reinstall and reconfigure applications 
+
+
+
+[^1]: For Macs, the procedure is described [here](#)

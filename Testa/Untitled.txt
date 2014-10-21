@@ -1,0 +1,10 @@
+Title:	Typography and Neuropsychology Reports
+Author:	S. Marc Testa, Ph.D. 
+Web:				http://neuropsychnow.com
+Date:                             11/13/13
+Tags:                            %fill:tags%
+Base Header Level:  reports
+
+[Practical Typography][1] is something every psychologist should read. From a human factors perspective, we need to consider how easy it is for others to read our reports. Small, sans serif fonts, lead to lengthy lines of text and can fatigue the reader easily. Our reports need to convey information without friction and proper typography should not be overlooked. 
+
+[1]: http://practicaltypography.com/ "Butterick’s Practical Typography"

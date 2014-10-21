@@ -1,0 +1,58 @@
+Title:				Create-A-Patient
+Author:				W. Howard Buddin Jr., Ph.D.
+Category:           Article
+Date:                   05/07/2014 
+Tags:                   Productivity, Screencast
+
+Are you tired of the mundane task of creating folders and files for each new patient that You see? By using Terminal a small program to take care of this for me. Now all I have to do is open up my terminal emulator and type in `newpt`, which immediately executes this task for me. Every minute of *my* work day counts - how about you? Watch it in action below.
+
+<!--insert file path here-->
+
+The script prompts for:
+
+1. The patient's name
+2. Whether the patient is coming in for therapy or testing
+
+It will then create a predetermined directory (read: folder) structure using the patient's name at the root of each directory and file. 
+
+Note the commenting used in this script, something we introduced in our article about [tracking your research activities using commenting and research logs](#). Comments are preceded by the octothorpe.[^1]
+
+```
+#!/bin/sh
+
+# variable(s)
+VALUE=" "
+
+# prompt for patient name
+printf "What is the patient's name? -> "
+read NAME
+# prompt for therapy vs testing
+printf "Is this referral for a neuropsychological evaluation? Type yes or no -> "
+read ANSWER
+	# Boolean switch to set the correct target directory
+	if [ "$ANSWER" = "yes" ] ; then
+		cd /Users/Howard/2014\ Practice/Active\ Neuro\ Evals
+		# create a new directory and sub-directories from patient name
+		for VALUE in $NAME ; do
+			mkdir "$VALUE" && cd $VALUE ;
+			mkdir "$VALUE info" "$VALUE tests";
+			# I'll want a file for any non-session/3rd party
+			# contact 
+			touch "Contact Record.txt" ;
+			# Give it a header in Markdown formatting
+			echo " ## Record of Contact ## " > "Contact Record.txt" ;
+		done
+	elif [ "$ANSWER" = "no" ]; then
+		cd /Users/Howard/2014\ Practice/Therapy\ Active
+		# Same as above, plus additional directory for progress notes
+		for VALUE in $NAME ; do
+			mkdir "$VALUE" && cd $VALUE ;
+			mkdir "$VALUE info" "$VALUE tests" "$VALUE notes";
+			touch "Contact Record.txt" ;
+			echo " ## Record of Contact ## " > "Contact Record.txt" ;
+		done
+	fi
+```
+
+
+[^1]: More popularly known as “the pound sign,” or, in social media, the “hashtag”; I prefer octothorpe for Nerd Street Cred.

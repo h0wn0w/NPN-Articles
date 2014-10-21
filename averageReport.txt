@@ -1,0 +1,12 @@
+Title:				Forensic Creation of the Average Neuropsychological Report According to Donders YEAR
+Author:				S. Marc Testa, Ph.D. & W. Howard Buddin Jr., Ph.D.
+Category:           Article
+Date:                   11/11/2013 
+Tags:                   Practice, Report Writing, Tech
+
+We have created the "average" neuropsychological report from the survey findings of Donders (2001a & 2001b). These surveys were created to assess the means, ways, and characteristics most commonly used by neuropsychologists in their reports. Results were reported via mode, rather than mean or median, since the characteristics of interests were nominal by nature.
+
+In creating this report, we included characteristics that were reported as ["routinely" or "always"] used by ≥ 51% of the sample.
+
+
+ 

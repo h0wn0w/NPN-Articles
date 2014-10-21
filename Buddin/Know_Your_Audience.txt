@@ -1,0 +1,47 @@
+Title:					Know Your Audience
+Author:					W. Howard Buddin, Jr., Ph.D.
+Date:               	
+Tags:					Audience, Reports, Writing
+Base Header Level:      1
+
+Report writing is a skill set that evolves over the course of a career. Among the many challenges of writing a sound report is tailoring it for the intended recipient. Of course, your patient is almost always the person for whom the report is written; however, our reports are generally filled with language that they would/do not understand. Moreover, the report gets sent to one or several other interested parties, including: 
+
+1. Primary care physicians
+2. Psychiatrists
+3. School administration and/or teachers
+4. Attorneys
+5. Government agency
+6. Judges 
+
+Clearly, a wide array of individuals might be reading your report, each with a different level of knowledge and skill sets. They will also look at it in different ways, which are context-dependent. This adds another layer of complexity. Reports should, therefore, be written in a way that is meaningful to the party *most directly connected with the patient*. Understanding at the outset that there is no one correct format for report writing will eventually enhance your skill.
+
+
+# The Patient #
+
+
+
+# Primary Care Physician #
+
+
+
+# Psychiatrist #
+
+A psychiatrist is likely most interested in the patient's final diagnoses, as this will affect their treatment decisions, and so forth. 
+
+# Attorney #
+
+If writing a report for a forensic evaluation requested by an attorney, you are answering one or more very specific questions and are not offering recommendations for treatment. 
+
+# Judge #
+
+Occasionally, the patient will never get the report at all, as in the case of an Independent Medical Exam.
+
+# Government Agency #
+
+
+
+# School Administration and/or Teachers #
+
+School psychologists are totally overworked. 
+
+Now that we've got that out of the way

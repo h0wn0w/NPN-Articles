@@ -1,0 +1,52 @@
+Title:				The Future of Technology and Cognitive Enhancement
+Author:		    S. Marc Testa, Ph.D.
+Category:     Article
+Date:           04/14/2014 
+Tags:           Clinical, Tech
+
+## Technology and Cognitive Enhancement ##
+
+Traditionally, cognitive rehabilitation[^cogreh] and remediation[^cogrem] are reserved for treating patients with longstanding or acquired brain dysfunction. However, one's cognitive effectiveness, regardless of the normality of his or her brain, is determined, in part, by the interaction between their abilities and the demands of the environment. Specifically, our mood, sleep quality, and frustration tolerance can either help or hinder our everyday cognitive effectiveness. Thus, we are all vulnerable to the perils of diminished brain health and fluctuations in cognitive functioning.
+
+Given the pervasiveness and power of mobile technology, we all have the opportunity to offset these vulnerabilities in some way. At a very basic level, mobile technology can deliver pertinent information, either by being searched for (e.g., digital assistants like Siri or XX) or provided to the user in a predictive manner at the precise time it is required (e.g., Google Now). These technologies, alone, can improve everyday cognitive functioning are immense, not only for individuals with abnormal brain functioning, but for everyone.
+
+
+Right now, mobile technology is very central in most people's lives. Some of us have other devices that we wear to collect different forms of data (e.g., a [fit bit][2] can track your activity to determine your everyday fitness or your nightly sleep. A scale can provide body weight and fat {~~%~>percentage~~}{>>@whb - 2014.04.14<<} to a central application that can then provide you with an overall glimpse of various factors). "The Internet of Things" is expanding 
+
+
+
+
+
+
+
+
+> everyday function = brain health + environmental demands
+
+{++## Clinical Applications++}{>>@whb - 2014.04.14<<}
+
+Regardless of how our brain is functioning at any given time, we {>>all rely on compensatory strategies<<}{>>I'm not sure about this - what about our patients that *don't* rely on compensatory strategies that we "teach" to them? Maybe you're talking about covert rather than overt strategies? @whb - 2014.04.14<<}, like technology, to manage our day so we can be as effective as possible. A calendar, as a very basic example, is a vital tool that we use for various cognitive purposes (e.g., planning, prospective memory, organization, etc.). We take notes all the time to aid in memory. 
+
+Now, in 2014, technology is advancing on several fronts and include{++s++}{>>@whb - 2014.04.14<<}: 
+
+1. The Internet of Things
+2. Automation
+3. Wearable technology
+4. Biometric data{--.--}{>>@whb - 2014.04.14<<} 
+
+Together, these all have very important implications for enhancing everyday cognitive functioning for those with and without brain injuries. 
+
+
+
+Ifttt
+Smart things
+I beacon 
+Healthbook
+
+
+[1]: http://www.societyforcognitiverehab.org/patient-family-resources/what-is-cognitive-rehab.php "The Society for Cognitive Rehabilitation - What is Cognitive Rehab Therapy?"
+[2]: #
+
+[^cogreh]: is meant to restore a cognitive function that has been lost as a result of an acquired brain injury.
+
+[^cogrem]: is similar e.g., "Cognitive remediation is intended to help people who have experienced a decline in their cognitive skills, or who were not able to fully develop their skills because of illness."
+

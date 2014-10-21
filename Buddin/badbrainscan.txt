@@ -1,0 +1,18 @@
+Title:				Brain Scanning Gone Wrong
+Author:				W. Howard Buddin Jr., Ph.D.
+Web:				http://neuropsychnow.com
+Date:                   04/09/2013 
+Tags:                   Brain, Imaging, Research
+Base Header Level:      1
+
+We've all seen the "studies" that show up on TV, something akin to "Scientists find MRIs can tell how old you were when you were first able to chew gum and tie your shoes at the same time." Or something like that. [This study], however, might take the cake. The researchers purported to correlate participants' dream self-reports with fMRI output. The interesting part was that they chose to wake up the participants more often than once per every two to three hours (which would be more in keeping with a full sleep-cycle) to get these self-reports. Like *way* more. Like *really, really,* ***way, really, really*** more.   Ten times per hour, to be specific. Principal Rooney would've stroked out: this was one more than "nine times." [^1] 
+
+Although it kind of goes without saying that waking someone up ten times an hour is not a good idea when you're relying on that someone to give you reliable, valid data, I'll go ahead and say it. This was not a good idea. In fact, this seems more like a sleep deprivation study than anything else. Double-in-fact: I would actually expect the participants' self-reports to be those of hallucinatory experiences. Triple-in-fact: after getting hold of the write-up in *Science*, it's clear that I'm not the only one with the hallucination hypothesis; Allan Hobson thinks this is the case, too, and he's a psychiatrist at *Harvard Medical School*. Woo woo woo, Mr. fancy-pants Hobson agrees with us.
+ 
+Finally, no one can go to sleep that fast, that often, without stabbing some people in the throat after being awoken for the third or fourth time in the first hour. No one. At the end of the day, this article is barely worth the write up, save for the fact that it documents another great example of poor science and poor science reporting.
+
+[^1]: Of course, [Nigel Tufnel] wouldn't have batted an eye, since it's one less than eleven.
+
+[This study]: http://www.guardian.co.uk/science/neurophilosophy/2013/apr/05/brain-scans-decode-dream-content
+
+[Nigel Tufnel]: http://en.wikipedia.org/wiki/Nigel_Tufnel

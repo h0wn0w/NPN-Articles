@@ -1,0 +1,4 @@
+Title: RMA
+Author:  
+
+Repeated measures analysis is a great example of the importance of correctly structuring one's database.

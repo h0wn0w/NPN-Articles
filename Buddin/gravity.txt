@@ -1,0 +1,36 @@
+Title:The Gravity of the Situation
+Author:W. Howard Buddin Jr., Ph.D.
+Category:Article
+Date:08/29/2014
+Tags:
+
+There is something about the Wechsler Adult Intelligence Scale – IV (WAIS – IV) that just bugs the heck out of me. Actually, it was an issue on the WAIS-III, too.[^1] Actually, the thing that bugs me is 
+
+just. 
+one. 
+single. 
+item.
+
+Stay with me for a minute here. It's time to get pedantic. It's time to talk about Albert Einstein. 
+
+### Special Relativity
+
+*Special Relativity* is first up. Basically, special relativity addresses the fact that the speed of light in a vacuum is stable/constant, regardless of where it came from or where it's going. 
+I can recall an over-simplified version of this theory with the following mnemonic: 
+> "S" is for "speed of light"
+
+Okay, that's enough. I won't dare talk about this (or the following) theory any further, because I don't have the training to understand it in a meaningful way. Also, further discussion is t warranted. After all, I said I was going to get pedantic; one can hardly be pedantic *and* talk about one of the two theories of relativity.[^see] 
+
+### General Relativity
+
+*General Relativity* lays out the relationship between gravity's force (and the matter that it puts in motion) and four dimensions/axes: the three-dimensional physical world in which we live (the x, y, and z axes) and the fourth dimension of time. Collectively, these four dimensions are called *spacetime*.
+
+To help me remember this and differentiate it from special relativity, I use another world-beater of a mnemonic:
+>"G" as in "gravity" as in "general"
+
+http://en.m.wikipedia.org/wiki/Theory_of_relativity
+
+
+[^1]: That's as far back as I go so if this was the same deal on the WAIS-R I wouldn't know.
+
+[^see]: At this point, some of you might know where I'm going with this.

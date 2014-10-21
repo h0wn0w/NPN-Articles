@@ -1,0 +1,9 @@
+Title:	Humanism in the Machine
+Author:	W. Howard Buddin Jr., Ph.D.
+Category: Article
+Date:
+Tags:	
+
+Felling stressed, anxious, or a little down? Perhaps all three? If you are feeling the forces of the human experience weighing you down, but can't get away from your computer long enough to decompress, never fear! If you have a computer that has the [emacs text editor](https://www.gnu.org/software/emacs/) installed, then you also have a [built in therapist](http://www.emacswiki.org/emacs/EmacsDoctor) as part of the deal. 
+
+The "therapist" in this case is actually little more than a game, and, of course, should not be treated as anything other than that. The experience of interacting with "DOCTOR," which is the actual name for the program that runs inside of the emacs editor, actually is kind of amusing. The responses are almost wholly vague and devoid of what might be called "helpful statements," but then the program and the [language-parsing program on which it ran](http://en.wikipedia.org/wiki/ELIZA) were designed as early attempts at emulating a person-to-person interaction/experience, and nothing else.

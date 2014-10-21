@@ -1,0 +1,10 @@
+Title:				Protected Health Information - WTF?
+Date:				07/09/2013 
+Author:				W. Howard Buddin Jr., Ph.D.
+Tags:				Data, Healthcare, HIPAA, Patient, Security
+
+Let's not talk about HIPAA too much. It is not an exciting topic. That being said, we could all stand to brush up on some terminology from time to time, which helps combat drift. It's nice to have a repository of reliable information at the ready for those moments when you're just not *totally sure* about some bit of information. Our [ongoing mission](http://neuronow.com/aboutus.html) is, of course, to bring these vetted resources right to your doorstep. Literally. We know where you live.  
+
+We've come across just such a resource over at hipaa.com that covers the basics of what protected health information (PHI), etc., is and isn't. The article is brief enough so that you won't go blind. Promise. 
+
+It's definitely worth a read, and you should go ahead and [read the article now](http://www.hipaa.com/2009/09/hipaa-protected-health-information-what-does-phi-include/). 
